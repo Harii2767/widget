@@ -135,7 +135,7 @@ class Screenone extends StatelessWidget {
               ),
             ),
             const SizedBox(
-              height: 20,
+              height: 30,
             ),
             Container(
               height: 150,
